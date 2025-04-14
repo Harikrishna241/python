@@ -1,0 +1,5 @@
+how the dictionary will be decalring in the python
+how to access the element in the dictioary 
+how to delete the element in dictioary
+how to add new element in the dictionary 
+how 
